@@ -216,21 +216,21 @@ A 2D shooting game made for HPB's permanent gallery for educational tours.
 
 ----
 
-#### [Prototype] LLM AI Chatbot with Live Avatar (2016)
+#### [Prototype] LLM AI Chatbot with Live Avatar (2026)
 Uses LLMUnity, ULipSync, native text-to-speech functionalities to deliver a 3D live avatar chat experience.
 
 ![images](images/Page%2011%2C%20object%20120.jpeg)
 
 ----
 
-#### [Prototype] Augmented Reality Image Feature detection (2016)
+#### [Prototype] Augmented Reality Image Feature detection (2018)
 Uses ARToolKit to detect images and render 3D models in position as AR on the mobile phone display.
 
 ![images](images/Page%2011%2C%20object%20119.jpeg)
 
 ----
 
-#### [Prototype] Webcam image to 3D UV Texture mapping in application (2016)
+#### [Prototype] Webcam image to 3D UV Texture mapping in application (2017)
 Uses a webcam and image editing to map hand drawn textures to a 3D model for the application.
 
 ![images](images/Page%2011%2C%20object%20121.jpeg)
