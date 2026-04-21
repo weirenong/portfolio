@@ -64,7 +64,7 @@ Memory matching flip game with highscore tracking and touchscreen keyboard name 
 ----
 
 #### UOB Treasure Bowl Kinect Game (2023)
-Kinect game where players hold a bowl and move left to right physically to collect gold coins dropping in the digial screen.
+Kinect game where players hold a bowl and move left to right physically to collect gold coins dropping in the digital screen.
 
 ![images](images/Page%204%2C%20object%2040.jpeg)
 
